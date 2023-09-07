@@ -21,6 +21,6 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 - :dart: Driving Low-Code Innovation for Agile Public Service Transformation
 
-- :: Currently developing low-code applications using PowerApps
+- :seedling: Currently developing low-code applications using PowerApps
 
 - :zap: Some of my hobbies are: running, djing, playing sports
